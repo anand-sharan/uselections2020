@@ -79,7 +79,6 @@ requests==2.24.0
 scipy==1.5.0
 selenium==3.141.0
 Send2Trash==1.5.0
-setuptools==47.3.1.post20200622
 six==1.15.0
 soupsieve==2.0.1
 splinter==0.14.0
